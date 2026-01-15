@@ -4,9 +4,7 @@ Description
 The inspiration comes from the lilies in life. I really like lilies. 
 The background image is also a real photo, so I want to permanently preserve this moment in electronic form.
 How to Run
-Open the link below in your browser once GitHub Pages is enabled:
-https://yourusername.github.io/p5-sketch/ //make sure to use the actual URL that is being
-used. This is just a placeholder.
+https://github.com/yyrzz0305/APBR/blob/main/Sketch/2025Lily/sketch.js
 Tools Used
 ● p5.js
 ● HTML / JavaScript
